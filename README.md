@@ -1,24 +1,19 @@
-<!-- [![MasterHead]()]() -->
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/bCzBm7Qimr0AAAAC/devsecops-devel.gif")
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/KMFu8UmEq0WsplwtbG/giphy.gif">
 <h1 align="center">Hi 👋, I'm Justin TAN Koon Han</h1>
 <h3 align="center">A passionate software engineer from Singapore</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justintankh&label=Profile%20views&color=0e75b6&style=flat" alt="justintankh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintankh" alt="justintankh" /></a> </p>
 
 - 💼 I’m currently working at **DBS Bank 🏦**
 
-- 🌱 I’m currently learning **Docker, Kubernetes and more full-stack frameworks !**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://justintankh.github.io/portfolio/](https://justintankh.github.io/portfolio/)
 
-- 💬 I am interested about **Economics and Finance !**
+- 📄 Know about my experiences [https://www.linkedin.com/in/JTKH/](https://www.linkedin.com/in/JTKH/)
 
 - 📫 How to reach me **justintankh@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/JTKH/](https://www.linkedin.com/in/JTKH/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justintankh&show_icons=true&locale=en" alt="justintankh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintankh&" alt="justintankh" /></p>
-
