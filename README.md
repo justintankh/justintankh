@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead]()]() -->
 (img align="right" alt="Coding" width="400" src="https://c.tenor.com/bCzBm7Qimr0AAAAC/devsecops-devel.gif")
 
 <h1 align="center">Hi 👋, I'm Justin TAN Koon Han</h1>
