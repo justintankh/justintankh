@@ -1,13 +1,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/KMFu8UmEq0WsplwtbG/giphy.gif">
 <h1 align="center">Hi 👋, I'm Justin TAN Koon Han</h1>
-<h3 align="center">A passionate software engineer from Singapore</h3>
+<h3 align="center">A passionate software engineer in Singapore</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justintankh&label=Profile%20views&color=0e75b6&style=flat" alt="justintankh" /> </p>
 
 
 - 💼 I’m currently working at **DBS Bank 🏦**
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **Camunda, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://justintankh.github.io/portfolio/](https://justintankh.github.io/portfolio/)
 
