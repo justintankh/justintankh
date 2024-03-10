@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working at **GIC 🏦**
 
-- 🌱 I’m currently learning **Camunda, Springboot**
+- 🌱 I’m currently learning **more about the cloud**
 
 - 👨‍💻 All of my projects are available at [https://justintankh.github.io/portfolio/](https://justintankh.github.io/portfolio/)
 
